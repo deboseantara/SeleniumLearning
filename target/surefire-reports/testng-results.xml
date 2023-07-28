@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33906" started-at="2023-07-21T06:48:39Z" finished-at="2023-07-21T06:49:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33906" started-at="2023-07-21T06:48:39Z" finished-at="2023-07-21T06:49:12Z">
+      <class name="logExampleTestNG.NOPCommApp">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:logExampleTestNG.NOPCommApp@7a3d45bd]" name="launchApp" is-config="true" duration-ms="9326" started-at="2023-07-21T12:18:39Z" finished-at="2023-07-21T12:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyLoginTest()[pri:0, instance:logExampleTestNG.NOPCommApp@7a3d45bd]" name="verifyLoginTest" duration-ms="19206" started-at="2023-07-21T12:18:48Z" finished-at="2023-07-21T12:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method status="PASS" signature="closingApp()[pri:0, instance:logExampleTestNG.NOPCommApp@7a3d45bd]" name="closingApp" is-config="true" duration-ms="5368" started-at="2023-07-21T12:19:07Z" finished-at="2023-07-21T12:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingApp -->
+      </class> <!-- logExampleTestNG.NOPCommApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
